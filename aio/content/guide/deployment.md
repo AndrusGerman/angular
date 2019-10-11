@@ -29,6 +29,7 @@ You will need two terminals to get the live-reload experience.
 
 * On the first terminal, run the [`ng build` command](cli/build) in *watch* mode to compile the application to the `dist` folder.
 
+
   <code-example language="none" class="code-shell">
 
    ng build --watch
